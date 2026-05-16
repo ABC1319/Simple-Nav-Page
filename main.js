@@ -4,7 +4,7 @@
 
 // ── 图标 & 背景 配置 ────────────────────────────────────────
 const FAVICON_PROVIDER = 'duckduckgo';
-const PROXY = '';
+const PROXY = 'https://simple-nav-page.vercel.de5.net';
 
 function withProxy(originUrl) {
   if (!PROXY) return originUrl;
