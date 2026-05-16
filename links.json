@@ -2,6 +2,34 @@
   {
     "section": "常用",
     "items": [
+      
+      {
+        "title": "go-nav",
+        "url": "https://go-nav.jbt.de5.net/",
+        "desc": "go-nav导航",
+        "data-desc": "go-nav导航"
+      },
+
+
+{ "title": "drug.soso", "url": "https://drug.soso.ccwu.cc/","desc": "drug.soso导航网站","data-desc": "drug.soso"}, 
+{ "title": "oiio","url": "https://oiio-nav.pages.dev/","desc": "oiio导航网站","data-desc": "oiio"}, 
+{ "title": "mtab-soso","url": "https://mtab.soso.ccwu.cc","data-desc": "mtab-soso","desc": "药学导航网站"}, 
+{ "title": "X主页", "url": "https://13145219.xyz/","desc": "X主页导航", "data-desc": "X-home"}, 
+{ "title": "pro-pintree","url": "https://pro-pintree.vercel.de5.net/", "desc": "pro-pintree", "data-desc": "pro-pintree"}, 
+{ "title": "pintree","url": "https://pintree.vercel.de5.net/", "desc": "pintree", "data-desc": "pintree"}, 
+{ "title": "noisedh","url": "https://noisedh.vercel.de5.net/", "desc": "noisedh", "data-desc":  "noisedh"}, 
+{ "title": "jgdh","url": "https://jgdh.vercel.de5.net/","desc": "极光导航", "data-desc": "jgdh"}, 
+{ "title": "bookmarksdh","url": "https://bookmarksdh.vercel.de5.net/", "desc": "轻芒导航", "data-desc": "bookmarksdh",}, 
+{ "title": "navhubi","desc": "navhubi","url": "https://navhubi.vercel.de5.net/","data-desc": "navhubi"},
+{ "title": "shuqianpage", "url": "https://shuqianpage.vercel.de5.net/", "desc": "shuqianpage","data-desc": "shuqianpage"},
+
+
+
+
+
+      
+      
+      
       {
         "title": "GitHub",
         "url": "https://github.com/dashboard",
