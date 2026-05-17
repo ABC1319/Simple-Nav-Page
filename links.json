@@ -10,9 +10,12 @@
         "data-desc": "go-nav导航"
       },
 
-
-{ "title": "drug.soso", "url": "https://drug.soso.ccwu.cc/","desc": "drug.soso导航网站","data-desc": "drug.soso"}, 
-{ "title": "oiio","url": "https://oiio-nav.pages.dev/","desc": "oiio导航网站","data-desc": "oiio"}, 
+{ "title": "awesome-navigation", "url": "https://awesome-navigation.jbt.de5.net/", "desc": "awesome-navigation","data-desc": "awesome-navigation"},
+{ "title": "simple-nav-page", "url": ""https://simple-nav-page.jbt.de5.net/", "desc": "simple-nav-page","data-desc": "simple-nav-page"},
+{ "title": "go-nav", "url": "https://go-nav.jbt.de5.net/", "desc": "go-nav","data-desc": "go-nav"},
+{ "title": "noisedh", "url": "https://noisedh.vercel.de5.net/", "desc": "noisedh","data-desc": "noisedh"},
+{ "title": "oiio","url": "https://oiio-nav.pages.dev/","desc": "oiio导航网站","data-desc": "oiio"},       
+{ "title": "drug.soso", "url": "https://drug.soso.ccwu.cc/","desc": "drug.soso导航网站","data-desc": "drug.soso"},
 { "title": "mtab-soso","url": "https://mtab.soso.ccwu.cc","data-desc": "mtab-soso","desc": "药学导航网站"}, 
 { "title": "X主页", "url": "https://13145219.xyz/","desc": "X主页导航", "data-desc": "X-home"}, 
 { "title": "pro-pintree","url": "https://pro-pintree.vercel.de5.net/", "desc": "pro-pintree", "data-desc": "pro-pintree"}, 
@@ -23,7 +26,7 @@
 { "title": "navhubi","desc": "navhubi","url": "https://navhubi.vercel.de5.net/","data-desc": "navhubi"},
 { "title": "shuqianpage", "url": "https://shuqianpage.vercel.de5.net/", "desc": "shuqianpage","data-desc": "shuqianpage"},
 { "title": "webdesk", "url": "https://webdesk.cc/", "desc": "webdesk","data-desc": "webdesk"},
-{ "title": "awesome-navigation", "url": "https://awesome-navigation.jbt.de5.net/", "desc": "awesome-navigation","data-desc": "awesome-navigation"},
+
 
 
 
