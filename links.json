@@ -3,12 +3,7 @@
     "section": "常用",
     "items": [
       
-      {
-        "title": "go-nav",
-        "url": "https://go-nav.jbt.de5.net/",
-        "desc": "go-nav导航",
-        "data-desc": "go-nav导航"
-      },
+
 
 { "title": "awesome-navigation", "url": "https://awesome-navigation.jbt.de5.net/", "desc": "awesome-navigation","data-desc": "awesome-navigation"},
 { "title": "simple-nav-page", "url":"https://simple-nav-page.jbt.de5.net/", "desc": "simple-nav-page","data-desc": "simple-nav-page"},
